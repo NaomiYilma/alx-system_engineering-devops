@@ -1,0 +1,2 @@
+#!/bin/bash
+ls ./  -type f *.gif | LC_ALL=C sort -i
